@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Facts-About-Japan/static/css/main.c04ad173.css",
+    "main.js": "/Facts-About-Japan/static/js/main.1fb7e481.js",
+    "index.html": "/Facts-About-Japan/index.html",
+    "main.c04ad173.css.map": "/Facts-About-Japan/static/css/main.c04ad173.css.map",
+    "main.1fb7e481.js.map": "/Facts-About-Japan/static/js/main.1fb7e481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c04ad173.css",
+    "static/js/main.1fb7e481.js"
+  ]
+}
